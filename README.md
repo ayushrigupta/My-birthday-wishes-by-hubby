@@ -1,6 +1,6 @@
 # My-birthday-wishes-by-hubby
 
-![](ayushri.jpg)
+![happy birthday](ayushri.jpg)
 
 
 
