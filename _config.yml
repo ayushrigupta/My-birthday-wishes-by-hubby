@@ -1,1 +1,15 @@
-t
+title: Happy Birthday 
+description: Happy Birthday message 
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+include:
+    - Happy Birthday wishes 
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
