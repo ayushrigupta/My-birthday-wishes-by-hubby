@@ -27,6 +27,6 @@ May this year bring you:
 **Forever yours,**  
 **Your loving Hubby** 💑
 
-![cute girl](image/ayushri.jpg)
+![cute girl](IMG_20260306_172523696_HDR.jpg)
 
 *With all my love on your special day!* 💕
