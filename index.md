@@ -1,7 +1,7 @@
 ---
 title: Happy birthday 
 ---
-<img src="ayushri.jpg" alt="🥰 cute girl">
+<img src="https://github.com/ayushrigupta/My-birthday-wishes-by-hubby/raw/main/ayushri.jpg" alt="🥰 cute girl">
 
 
 # Happy birthday ayushri 
