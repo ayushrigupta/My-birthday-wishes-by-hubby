@@ -1,10 +1,35 @@
 ---
-title: Happy birthday 
+title: Happy Birthday Ayushri
+layout: default
 ---
-<img src="https://github.com/ayushrigupta/My-birthday-wishes-by-hubby/raw/main/ayushri.jpg" alt="🥰 cute girl">
 
+# 🎉 Happy Birthday Ayushri! 🥰
 
-# Happy birthday ayushri 
-To view the message:
-- **[click here](README.md)**
+---
+
+## 💌 A Special Message Just For You
+
+Welcome to your birthday celebration! This page is dedicated to you with all my love.
+
+---
+
+### 📖 View the Full Message
+**[👉 Click here to read my birthday wishes](README.md)**
+
+---
+
+### 💑 Why I Love You
+
+- 🌟 Your smile lights up my world
+- 💕 Your presence makes everything better
+- 🎵 You're my favorite person
+- 💪 You inspire me every single day
+
+---
+
+**Wishing you the most wonderful birthday ever!**
+
+*Forever yours,* 💕  
+*Your loving Hubby* 💑
+
 ---
